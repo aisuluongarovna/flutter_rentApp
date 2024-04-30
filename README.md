@@ -1,16 +1,3 @@
 # flutter_rentapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана 2024-04-30 131430](https://github.com/aisuluongarovna/flutter_rentApp/assets/144228244/3407ef17-e43d-4b45-84e8-9bf2c074f55a)
